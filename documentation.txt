@@ -1,0 +1,6 @@
+Styled buttons created by Rishabh
+
+1. Use class "btn-grad" for a simple gradient button.
+2. Use class "btn-outline-grad" for an outline gradient button.
+
+Gradient buttons have animated backgrounds activated on hover.
