@@ -2,5 +2,7 @@ Styled buttons created by Rishabh
 
 1. Use class "btn-grad" for a simple gradient button.
 2. Use class "btn-outline-grad" for an outline gradient button.
+3. Make four divs and assign classes btn-rotating-outer < btn-sqaure-1 < btn-square-2 < btn-text
+    and wola your animated button is ready.
 
 Gradient buttons have animated backgrounds activated on hover.
